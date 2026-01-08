@@ -8,5 +8,5 @@ basic.forever(function () {
         . . # . .
         . . # . .
         `)
-    music.play(music.tonePlayable(262, music.beat(BeatFraction.Double)), music.PlaybackMode.LoopingInBackground)
+    music.play(music.tonePlayable(494, music.beat(BeatFraction.Double)), music.PlaybackMode.LoopingInBackground)
 })
